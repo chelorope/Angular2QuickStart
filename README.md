@@ -1,1 +1,1 @@
-# AngularQuickStart
+# Angular2QuickStart
